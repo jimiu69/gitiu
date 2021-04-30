@@ -1,1 +1,2 @@
 print('iuiu')
+print('loveiu')
